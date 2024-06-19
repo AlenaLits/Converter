@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cursachbuttontheory", "cursachbuttontheory\cursachbuttontheory.csproj", "{56159A2D-1C91-4E6A-9B0B-14BF0F52E736}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56159A2D-1C91-4E6A-9B0B-14BF0F52E736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56159A2D-1C91-4E6A-9B0B-14BF0F52E736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56159A2D-1C91-4E6A-9B0B-14BF0F52E736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56159A2D-1C91-4E6A-9B0B-14BF0F52E736}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D02A852-DA75-4DD6-895D-B92BEB2E8020}
+	EndGlobalSection
+EndGlobal
